@@ -1,3 +1,7 @@
 function f1(){
 //First
 }
+
+function f2(){
+//Second
+}
